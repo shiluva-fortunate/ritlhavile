@@ -1,0 +1,201 @@
+<!Doctype html>
+
+<html lang="en">
+
+	<head>
+		<title>Ritlhavile Accounting Services</title>
+		<meta charset = "UTF-8">
+		<meta name = "viewport" content = "width=device-width, initial-scale=1">
+		<link rel = "stylesheet" type = "text/css" href = "./style.css"> 
+		<link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+		<script
+			  src="http://code.jquery.com/jquery-3.3.1.slim.min.js"
+			  integrity="sha256-3edrmyuQ0w65f8gfBsqowzjJe2iM6n0nKciPUp8y+7E="
+			  crossorigin="anonymous">
+		</script>
+
+	</head>
+
+<body>
+	 
+	<div id="image">
+	<img src="background.jpg">
+	</div>
+	<nav class="navbar navbar-default navbar-fixed-top">
+		
+		<ul class="list-container">
+			<li class="ListItems"><a class="NavList" href="#Contact">Contact Us</a></li>
+			<li class="ListItems"><a class="NavList" href="#Portfolio">Portfolio</a></li>
+			<li class="ListItems"><a class="NavList" href="#Team">The Team</a></li>
+			<li class="ListItems"><a class="NavList" href="#Services">Services</a></li>
+			<li class="ListItems"><a class="NavList" href="#About">About Us</a></li>	
+		</ul>
+		<div id="title"><p>Ritlhavile Accounting Services</p>
+		</div>
+	</nav>
+
+<!--middle part-->
+<div id="middle">
+<!--about-->
+<div class="ContContainer">
+	<div id="About">
+		<h1 class="section"> ABOUT </h1>
+
+			<div class="content">
+				<h1 class="head">Introduction</h1>
+				<p class="words">Running a business is not easy, In the modern business environment where professional services can be perceived as a standard service you need a partner that can add value in the areas of your business that matter. We are Audit, Accounting, Tax, Advisory and Payroll practice in Collins Chabane Municipality, Vembe District in Limpopo within South Africa, led by a Chartered Accountant. We leverage technology to ensure that you can forget about all the red tape and concentrate on your business. </p>
+			</div>
+
+			<div class="content">
+				<h1 class="head">Acredditation</h1>
+				<p class="words">CEO accredited with South African Institute for Business Accountant (SAIBA) as an Accountant, Auditor and skill Development facilitator (SDF) and South African Institute for Tax Practitioners (SAIT) as well Institutes for Certified Bookkeepers (ICB) Certified Institutes for Management for Accountants (CIMA). The organization is registered as Private Company.</p>
+			</div>
+
+			<div class="content">
+				<h1 class="head">Acredditation</h1>
+				<p class="words">CEO accredited with South African Institute for Business Accountant (SAIBA) as an Accountant, Auditor and skill Development facilitator (SDF) and South African Institute for Tax Practitioners (SAIT) as well Institutes for Certified Bookkeepers (ICB) Certified Institutes for Management for Accountants (CIMA). The organization is registered as Private Company.</p>
+			</div>
+
+	</div>	
+</div><!--end of about--->
+
+
+<!--services-->
+<div class="ContContainer1">
+	<div id="Services">
+		<h1 class="section"> services </h1>
+
+		<div class="row">
+			<div class="content2">
+				<h1 class="head2">Audit And Assurance</h1>
+				<img class="ServiceImg" src="service-icon-4.png">
+				<p class="Swords">As Registered Auditors  we provide the full spectrum of Audit and Assurance services.
+					    Audit, Independent Reviews and other assurance engagements.
+					    The entities we service range from private companies and subsidiaries of listed entities, Schools, Churches, Creches to 					          family owned companies and non-profit entities.</p>
+			</div>
+		
+			<div class="content2">
+				<h1 class="head2">Advisory</h1>
+				<img class="ServiceImg" src="service-icon-4.png">
+				<p class="Swords">Ritlhavile Accounting Solutions(RAS) can help you navigate the myriad of business difficulties in transaction  ( business valuations and advice). RAS can also assist from first registration of a company, with advice on efficient structuring , to the subsequent 						    compliance as a company secretary.</p>
+			</div>
+		
+			<div class="content2">
+				<h1 class="head2">Accounting Services</h1>
+				<img class="ServiceImg" src="service-icon-4.png">
+				<p class="Swords">-Management accounts and business performance
+					    -Annual Financial statements 
+					    -Comprehensive accounting services from Monthly Accounting and Cash Flow forecast
+					    -Budgetary assistance  & Business advisory services.</p>
+			</div>
+		</div>		
+
+		<div class="row">
+			<div class="content2">
+				<h1 class="head2">Company Secretarial</h1>
+				<img class="ServiceImg" src="service-icon-4.png">
+				<p class="Swords">-Company registration
+					    -Company and CC amendment	incl directors
+					    -Shareholding  changes</p>
+			</div>
+		
+			<div class="content2">
+				<h1 class="head2">Taxation</h1>
+				<img class="ServiceImg" src="service-icon-4.png">
+				<p class="Swords">-Business and individual tax returns
+					    -VAT returns and registrations
+					    -Tax Registration and Ta"bg-light"x Clearance 
+					    -SARS liaising and consulting 
+					    -Filling of SARS returns.</p>
+			</div>
+		
+			<div class="content2">
+				<h1 class="head2">Other Services</h1>
+				<img class="ServiceImg" src="service-icon-4.png" alt="pic not available">
+				<p class="Swords">-Business and individual tax returns
+					    -VAT returns and registrations
+					    -Tax Registration and Tax Clearance 
+					    -SARS liaising and consulting 
+					    -Filling of SARS returns.</p>
+			</div>
+		</div>		
+
+		
+	</div>	 
+</div><!--END OF services--->
+
+<!--THE TEAM-->
+<div class="ContContainer2">
+	<div id="Team">
+
+	<div id="top">
+		<h1 class="section"> the team </h1>
+		<h3 class="subsec">Meet the team</h3>
+	</div>
+
+		<div class="team">
+
+			<div class="content3">
+				<img class="rounded-circle" src="1.jpg" alt="pic not available">	
+				<h2>Name</h2>
+				<p class="position"> the role </p>		
+			</div>
+
+			<div class="content3">
+				<img class="rounded-circle" src="2.jpg" alt="pic not available">	
+				<h2>Name</h2>
+				<p class="position">the role</p>		
+			</div>
+
+		<div class="content3">
+				<img class="rounded-circle" src="3.jpg" alt="pic not available">	
+				<h2>Name</h2>
+				<p class="position">tnavbar-defaulthe role</p>		
+			</div>
+
+
+		</div>
+	</div>
+
+</div><!--END OF the team--->
+
+
+<div class="ContContainer3">
+	<div id="Portfolio">
+		<div id="pot">
+		<h1 class="section"> portfolio </h1>
+		<h3 class="subsec">Audited schools since inception</h3>
+		</div>
+			<div class="content4">
+			  <ul>
+				<li>98% of Malamulele West Circuit schools, their books has been audited y RAS since from 2006 up until to date.</li>
+				<li>75% of Malamulele Central, and the percentage are increased on an annualy basis by 15% annualy.</li>
+				<li>30% of Malamulele North-East Circuit and their percentage are going up every year.</li>
+				<li>12% of Giyani Central during 2013-2015 financial year.</li>
+				<li>98% of Malamulele (Creches, CBO as well as NPOs within Vhembe District are being audited by RAS and almost 45% under Mopani District from 					2006- to date.</li>
+				<li>The number of Audited schools has increased by 45% each year on each cluster or Area.</li>
+				<li>All SARS related matters such Tax registration, registration of VAT, VAT returns, EMP201, EMP501, IRP6, PAYE, SDL, ITR12 and ITR14 for 					companies are being handled by RAS.</li>
+				<li>NPO’s within Capricon District has been trained on financial management workshop by RAS during 2015 financial year.</li>
+				<li>85% of creches around Giyani and Malamulele have registered as NON-PROFIT ORGANISATION through RAS.</li>
+				<li>43% of close-coperative which was de-registered with Cipc has now retain their status through RAS</li>
+				<li>Voter Education Provider under Greater Giyani Municipality  during 2000 Local Government 
+				Elections.</li>
+				<li>Accountant of Sasekisani Primary Co-operative from 2013 up until date and submit the financial reports  ( R10 000 000.00) annually.</li>
+				<li>Accountant of Makumeke Primary Co-operative from 2017 and doing books for over R4 000 000.00</ul></ol>
+			</div>
+
+	</div>
+</div>   <!--END OF MIDDLE--->
+
+
+<script>
+			
+			$(window).scroll(function(){
+			$('nav').toggleClass('scrolled', $(this).scrollTop() > 200);
+			});
+
+		</script>
+
+</body>
+
+</html>
